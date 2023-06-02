@@ -1,0 +1,8 @@
+[
+  { "label": "Program", "code": "PROGRAM" },
+  { "label": "Noclegi", "code": "ACCOMODATION" },
+  { "label": "Koszulki", "code": "TSHIRT" },
+  { "label": "Zgłoszenie prezentacji", "code": "MOVIE" },
+  { "label": "Facebook", "code": "FB" },
+  { "label": "Kontakt", "code": "CONTACT" }
+]
